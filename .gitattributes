@@ -1,4 +1,5 @@
+*.exe binary
+*.dll binary
 *.manifest binary
 *.application binary
 *.deploy binary
-* -text
